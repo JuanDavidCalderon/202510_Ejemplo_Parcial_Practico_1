@@ -25,6 +25,8 @@ import uk.co.jemos.podam.api.PodamFactoryImpl;
 @Import(EspecialidadService.class)
 class EspecialidadServiceTest {
 
+	
+
 	@Autowired
 	private EspecialidadService especialidadService;
 
